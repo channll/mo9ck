@@ -1,0 +1,13 @@
+name: your_app_name
+description: A new Flutter project.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.0.0
+  hive_flutter: ^1.1.0
+  build_runner: ^2.1.2
